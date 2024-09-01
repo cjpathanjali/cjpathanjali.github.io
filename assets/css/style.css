@@ -334,13 +334,12 @@ main {
   font-size: var(--fs-8);
   font-weight: var(--fw-300);
   width: max-content;
-  margin: auto;
   padding: 3px 12px;
   border-radius: 8px;
 }
 .desigination{
   display: flex;
-  /* justify-content: space-evenly; */
+  justify-content: space-evenly;
 
 }
 
